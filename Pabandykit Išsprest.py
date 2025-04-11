@@ -1,3 +1,4 @@
+# Šitas darbas yra tik taip pramogai
 from dotenv import load_dotenv
 import os
 
